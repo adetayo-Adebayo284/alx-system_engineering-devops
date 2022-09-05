@@ -1,1 +1,1 @@
-This is my first readme
+a script that displays a confused smiley "(Ôo)'
