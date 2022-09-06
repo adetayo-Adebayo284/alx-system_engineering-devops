@@ -1,2 +1,2 @@
-cat > README.md
+#!/bin/bash
 rev
